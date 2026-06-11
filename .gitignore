@@ -1,0 +1,7 @@
+node_modules/
+copa_mundial.db
+copa_mundial.db-journal
+copa_mundial.db-wal
+copa_mundial.db-shm
+.env
+.DS_Store
